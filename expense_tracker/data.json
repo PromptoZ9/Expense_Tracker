@@ -1,0 +1,51 @@
+[
+    {
+        "ID": 1,
+        "Date": "2024-02-20",
+        "Category": "Makanan",
+        "Description": "Beli nasi goreng",
+        "Ammount": -25000
+    },
+    {
+        "ID": 2,
+        "Date": "2024-02-20",
+        "Category": "Gaji",
+        "Description": "Gaji bulan Februari",
+        "Ammount": 5000000
+    },
+    {
+        "ID": 3,
+        "Date": "21/02/2025",
+        "Category": "Expense",
+        "Description": "Buying Milk",
+        "Ammount": 10000
+    },
+    {
+        "ID": 4,
+        "Date": "21/02/2025",
+        "Category": "Expense",
+        "Description": "Buying new bike",
+        "Ammount": -50000000
+    },
+    {
+        "ID": 5,
+        "Date": "21/02/2025",
+        "Category": "Buying noodles",
+        "Description": "Expense",
+        "Ammount": -15000
+    },
+    {
+        "ID": 6,
+        "Date": "21/02/2025",
+        "Category": "expense",
+        "Description": "buying PC",
+        "Ammount": -10000000
+    },
+    {
+        "ID": 7,
+        "Date": "21/02/2025",
+        "Category": "Income",
+        "Description": "My Balance",
+        "Ammount": 500000000
+    }
+]
