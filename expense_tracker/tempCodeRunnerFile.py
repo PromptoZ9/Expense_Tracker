@@ -1,2 +1,0 @@
-intro()
-main_menu()
